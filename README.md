@@ -1,0 +1,2 @@
+# 4bit_CPU_DATAPATH_PROJECT
+4bit CPU &amp; 4bit ALU
