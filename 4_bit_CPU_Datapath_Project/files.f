@@ -1,0 +1,12 @@
+rtl/alu.v
+rtl/topmodule.v
+rtl/contrlu.v
+rtl/counter.v
+rtl/flagreg.v
+rtl/pipereg.v
+rtl/regis.v
+rtl/insreg.v
+rtl/datamem.v
+rtl/mux.v
+rtl/memory.v
+tb/datapath_fourbit_tb.v

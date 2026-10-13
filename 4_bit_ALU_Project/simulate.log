@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Student Name: Hoang Ngoc Long
+Roll Number : SE204586
+- PART 1: ARITHMETIC -
+DIVISION ERROR!
+- PART 2: LOGIC & SHIFT -
+>>> TEST RESULT: FAIL WITH 1 ERRORS!
+$finish called at time : 100 ns : File "C:/Users/User/project_take2/project_take2.srcs/sources_1/new/ALU_4bit_tb.v" Line 73
